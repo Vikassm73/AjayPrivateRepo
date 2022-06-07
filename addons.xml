@@ -11,7 +11,6 @@
 		<import addon="script.module.metahandler" version="5.0.0"/>
 		<import addon="plugin.video.youtube" optional="true" />
 		<import addon="plugin.video.imdb.trailers" optional="true" />
-		<import addon="script.module.web-pdb" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 			<provides>video</provides>
@@ -22,7 +21,6 @@
 	DeccanDelight is and always will be free and open-source. None of its code and resources may be sold or redistributed for any commercial purposes.
 	DeccanDelight and its developers [B]DO NOT[/B] host, create, or distribute any of the content displayed in the addon, it simply scrapes ad financed public websites.</description>
 		<platform>all</platform>
-		<website>https://github.com/Gujal00/GujalKodiWork</website>
 		<disclaimer>DeccanDelight and its developers are not in any way affiliated with Kodi or any of the sites and providers used in the addon.</disclaimer>
 		<assets>
 			<icon>icon.png</icon>
